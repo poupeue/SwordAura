@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/poupeue/SwordAura/main/Aura",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/poupeue/SwordAura/main/Reach",true))()
