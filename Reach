@@ -1,5 +1,5 @@
 --// Setting \--
-local range = 17.5
+local range = 18
  --// Variable \--
 local player = game:GetService("Players").LocalPlayer
  --// Script \--
